@@ -1,0 +1,8 @@
+2024-02-21 15:40:12,960 :INFO : TestcaseOne :Navigated to Application URL
+2024-02-21 15:40:14,185 :INFO : TestcaseOne :Clicked on Menu Item
+2024-02-21 15:40:16,313 :INFO : TestcaseOne :Clicked on Browse Questions Section
+2024-02-21 15:40:18,905 :INFO : TestcaseOne :Clicked on Users on the left section
+2024-02-21 15:40:26,198 :INFO : TestcaseOne :Clicked on Editors
+2024-02-21 15:40:33,113 :INFO : TestcaseOne :Navigated to Page 2
+2024-02-21 15:40:35,293 :INFO : TestcaseOne :Validated if Page 2 is selected
+2024-02-21 15:40:36,032 :INFO : TestcaseOne :Captured all the users/single user having Maximum Edits Count in Page 2
